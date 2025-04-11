@@ -12,7 +12,7 @@ public class Artista {
                 "nombreArtista='" + nombreArtista + '\'' +
                 '}';
     }
-
+//NUEVO COMENTRIO para apartado K
     public String getNombreArtista() {
         return nombreArtista;
 	//Prueba fetch
